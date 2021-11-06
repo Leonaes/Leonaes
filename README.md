@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Leonaes/Leonaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Dev-frontend ReactJs e Native.
+- 🌱 Estudando React Native.
+- 🔍 Open to Work.
+- 📫 Contate-me no email: leonardo.ae.santo@gmail.com
+- <div>
+    <a href="https://github.com/Leonaes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonaes&layout=compact&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonaes&layout=compact&langs_count=16&theme=dark"/>
+  </div>
+  
+  ![Snake animation](https://github.com/rafaballerini/leonaes/blob/output/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
