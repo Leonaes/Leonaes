@@ -10,5 +10,4 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonaes&layout=compact&langs_count=16&theme=dark"/>
   </div>
   
-  ![Snake animation](https://github.com/rafaballerini/leonaes/blob/output/github-contribution-grid-snake.svg)
 
