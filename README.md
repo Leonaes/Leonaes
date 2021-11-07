@@ -1,4 +1,4 @@
-### Ola , meu nome é Leonardo! 👋
+### Olá, meu nome é Leonardo! 👋
 
 - 🔭 Dev-frontend ReactJs e Native.
 - 🌱 Estudando React Native.
